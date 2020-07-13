@@ -1,0 +1,3 @@
+D:\Desktop(Drive Data)\CapstoneProject\SRPGProject\Source\SRPGProject\SRPGProject.Build.cs
+D:\Desktop(Drive Data)\CapstoneProject\SRPGProject\Source\SRPGProject.Target.cs
+D:\Desktop(Drive Data)\CapstoneProject\SRPGProject\Source\SRPGProjectEditor.Target.cs
